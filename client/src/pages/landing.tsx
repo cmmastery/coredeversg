@@ -35,7 +35,7 @@ export default function Landing() {
             className="max-w-full w-full md:w-[600px] lg:w-[700px] h-auto object-contain mb-6"
           />
           <p className="text-xl md:text-2xl text-gray-400 tracking-widest" style={{ fontFamily: 'Space Mono, monospace' }}>
-            ENTER THE FUTURE
+            Welcome Traders
           </p>
         </div>
 

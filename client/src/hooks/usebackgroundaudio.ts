@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef } from "react";
 
 // Audio URL for the background music
-const AUDIO_URL = "https://2vfb17mwgf.ucarecd.net/013a3075-9a74-4016-bbaa-328c5a088d4a/stayschemininstrumental.mp3";
+const AUDIO_URL = "https://cmmastery.github.io/audio-host/Twodifferentworlds.mp3";
 
 // Global audio instance that persists across component mounts/unmounts
 let globalAudio: HTMLAudioElement | null = null;
